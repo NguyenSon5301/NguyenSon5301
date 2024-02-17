@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenSon5301
 - 👀 I’m interested in .NET and Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on jobs
 - 📫 How to reach me ...
 Facebook: https://www.facebook.com/son.nguyenhongson.12/
